@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300"><g transform="translate(0 0)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.0s" dur=".6s" fill="freeze"/>
+  <rect x=".5" y=".5" width="281" height="299" rx="10" fill="#0a0a0b" stroke="#1d1f22"/>
+  <path d="M10 24 V10 H24" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M272 24 V10 H258" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M10 276 V290 H24" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M272 276 V290 H258" fill="none" stroke="#ff1f3d" stroke-width="2"/>
+  <text x="26" y="50" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="3" fill="#5a5f66">OP/01</text>
+  <g transform="translate(222 28)"><circle cx="14" cy="14" r="9" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M21 21l8 8" stroke="#ff1f3d" stroke-width="2"/></g>
+  <text x="26" y="150" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" letter-spacing="1" fill="#e8e6e3">DATA FORENSICS</text>
+  <text font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="14" fill="#8b9097"><tspan x="26" y="186">Messy spreadsheets in.</tspan><tspan x="26" y="208">Clean answers out.</tspan></text>
+  <rect x="26" y="252" width="230" height="3" fill="#1a1b1e"/>
+  <rect x="26" y="252" width="0" height="3" fill="#ff1f3d"><animate attributeName="width" values="0;230;230;0" keyTimes="0;.4;.85;1" dur="4s" begin="0.0s" repeatCount="indefinite"/></rect>
+  <text x="26" y="276" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="10" letter-spacing="2" fill="#3a3d42">RUNNING<animate attributeName="opacity" values="1;.3;1" dur="1.4s" repeatCount="indefinite"/></text>
+</g><g transform="translate(306 0)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.25s" dur=".6s" fill="freeze"/>
+  <rect x=".5" y=".5" width="281" height="299" rx="10" fill="#0a0a0b" stroke="#1d1f22"/>
+  <path d="M10 24 V10 H24" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M272 24 V10 H258" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M10 276 V290 H24" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M272 276 V290 H258" fill="none" stroke="#ff1f3d" stroke-width="2"/>
+  <text x="26" y="50" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="3" fill="#5a5f66">OP/02</text>
+  <g transform="translate(222 28)"><path d="M17 2L5 18h9l-2 12 12-16h-9z" fill="none" stroke="#ff1f3d" stroke-width="2" stroke-linejoin="round"/></g>
+  <text x="26" y="150" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" letter-spacing="1" fill="#e8e6e3">AUTOMATION</text>
+  <text font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="14" fill="#8b9097"><tspan x="26" y="186">Excel + Python that turn</tspan><tspan x="26" y="208">hours into seconds.</tspan></text>
+  <rect x="26" y="252" width="230" height="3" fill="#1a1b1e"/>
+  <rect x="26" y="252" width="0" height="3" fill="#ff1f3d"><animate attributeName="width" values="0;230;230;0" keyTimes="0;.4;.85;1" dur="4s" begin="0.25s" repeatCount="indefinite"/></rect>
+  <text x="26" y="276" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="10" letter-spacing="2" fill="#3a3d42">RUNNING<animate attributeName="opacity" values="1;.3;1" dur="1.4s" repeatCount="indefinite"/></text>
+</g><g transform="translate(612 0)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur=".6s" fill="freeze"/>
+  <rect x=".5" y=".5" width="281" height="299" rx="10" fill="#0a0a0b" stroke="#1d1f22"/>
+  <path d="M10 24 V10 H24" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M272 24 V10 H258" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M10 276 V290 H24" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M272 276 V290 H258" fill="none" stroke="#ff1f3d" stroke-width="2"/>
+  <text x="26" y="50" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="3" fill="#5a5f66">OP/03</text>
+  <g transform="translate(222 28)"><path d="M2 28h28M5 22l7-8 6 5 10-12" fill="none" stroke="#ff1f3d" stroke-width="2"/></g>
+  <text x="26" y="150" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" letter-spacing="1" fill="#e8e6e3">FINANCIAL ANALYSIS</text>
+  <text font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="14" fill="#8b9097"><tspan x="26" y="186">Reading the story hidden</tspan><tspan x="26" y="208">inside the numbers.</tspan></text>
+  <rect x="26" y="252" width="230" height="3" fill="#1a1b1e"/>
+  <rect x="26" y="252" width="0" height="3" fill="#ff1f3d"><animate attributeName="width" values="0;230;230;0" keyTimes="0;.4;.85;1" dur="4s" begin="0.5s" repeatCount="indefinite"/></rect>
+  <text x="26" y="276" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="10" letter-spacing="2" fill="#3a3d42">RUNNING<animate attributeName="opacity" values="1;.3;1" dur="1.4s" repeatCount="indefinite"/></text>
+</g><g transform="translate(918 0)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur=".6s" fill="freeze"/>
+  <rect x=".5" y=".5" width="281" height="299" rx="10" fill="#0a0a0b" stroke="#1d1f22"/>
+  <path d="M10 24 V10 H24" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M272 24 V10 H258" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M10 276 V290 H24" fill="none" stroke="#ff1f3d" stroke-width="2"/><path d="M272 276 V290 H258" fill="none" stroke="#ff1f3d" stroke-width="2"/>
+  <text x="26" y="50" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="3" fill="#5a5f66">OP/04</text>
+  <g transform="translate(222 28)"><path d="M3 5h26v17H14l-7 6v-6H3z" fill="none" stroke="#ff1f3d" stroke-width="2" stroke-linejoin="round"/><path d="M11 12h10M11 16h6" stroke="#ff1f3d" stroke-width="2"/></g>
+  <text x="26" y="150" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="19" font-weight="700" letter-spacing="1" fill="#e8e6e3">HELP DESK</text>
+  <text font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="14" fill="#8b9097"><tspan x="26" y="186">Stuck? Open an issue.</tspan><tspan x="26" y="208">I'll take a look.</tspan></text>
+  <rect x="26" y="252" width="230" height="3" fill="#1a1b1e"/>
+  <rect x="26" y="252" width="0" height="3" fill="#ff1f3d"><animate attributeName="width" values="0;230;230;0" keyTimes="0;.4;.85;1" dur="4s" begin="0.75s" repeatCount="indefinite"/></rect>
+  <text x="26" y="276" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="10" letter-spacing="2" fill="#3a3d42">RUNNING<animate attributeName="opacity" values="1;.3;1" dur="1.4s" repeatCount="indefinite"/></text>
+</g></svg>
